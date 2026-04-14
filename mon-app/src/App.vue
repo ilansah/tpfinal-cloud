@@ -13,6 +13,6 @@ const today = new Date().toLocaleDateString('fr-FR')
 <style>
 
 h1 {
-  color: yellow;
+  color: blue;
 }
 </style>
